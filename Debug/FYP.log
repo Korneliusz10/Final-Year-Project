@@ -1,0 +1,23 @@
+﻿  Level1.cpp
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(18,2): error C2065: 'test': undeclared identifier
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(29,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(30,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(33,13): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(36,13): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(39,13): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(42,13): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(49,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.cpp(53,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Level2.cpp
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,18): error C2238: unexpected token(s) preceding ';'
+  main.cpp
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dragunov\Desktop\CV AND JOB\Final Year Project\FYP\FYP\Level1.h(12,18): error C2238: unexpected token(s) preceding ';'
+  SpriteSheet.cpp
+  Generating Code...
